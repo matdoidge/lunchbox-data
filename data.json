@@ -25,31 +25,6 @@
         "dentists"
       ],
       "createdAt": "2026-06-12T10:06:54.473Z"
-    },
-    {
-      "id": "smilifye-webflow-io-3289fabf",
-      "url": "https://smilifye.webflow.io/service",
-      "title": "Service - Smilifye - Webflow HTML website template",
-      "description": "Discover beautifully designed, fully customizable Webflow templates that are perfect for creating stunning websites. Whether you’re building a portfolio, blog, e-commerce site, or landing page, our templates offer endless possibilities to bring your vision to life with ease and flexibility.",
-      "favicon": "https://cdn.prod.website-files.com/6989a716ebe888bb965ec373/69f299c6d1e5464b411df9d3_smilifye-favicon.png",
-      "siteName": "webflow.io",
-      "screenshot": "screenshots/smilifye-webflow-io-3289fabf.png",
-      "width": 1280,
-      "height": 900,
-      "colors": [
-        "#76AEB5",
-        "#D7E8EA",
-        "#042C34",
-        "#327A83",
-        "#51929C",
-        "#628083"
-      ],
-      "bg": "#D7E8EA",
-      "tags": [
-        "service",
-        "dentists"
-      ],
-      "createdAt": "2026-06-12T10:03:35.491Z"
     }
   ]
 }
