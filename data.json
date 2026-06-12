@@ -2,6 +2,31 @@
   "version": 1,
   "items": [
     {
+      "id": "abetterlou-com-c99a8cd2",
+      "url": "https://abetterlou.com/",
+      "title": "A Better Lou",
+      "description": "Physician-led TRT and men’s hormone health in Tucson, AZ. Advanced bloodwork, biological age testing, and longevity medicine — delivered via telehealth across Arizona.",
+      "favicon": "https://cdn.prod.website-files.com/6939a31d6f0751cc94b4a574/69630208d1209c601b2a05a9_256x256.png",
+      "siteName": "abetterlou.com",
+      "screenshot": "screenshots/abetterlou-com-c99a8cd2.png",
+      "width": 1280,
+      "height": 900,
+      "colors": [
+        "#212324",
+        "#E1B98B",
+        "#5B8CB0",
+        "#7B6E6E",
+        "#5F7084",
+        "#544E48"
+      ],
+      "bg": "#212324",
+      "tags": [
+        "dark",
+        "large type"
+      ],
+      "createdAt": "2026-06-12T10:26:17.325Z"
+    },
+    {
       "id": "finofo-com-43d26a61",
       "url": "https://www.finofo.com/",
       "title": "AI-Powered AP Automation That Just Works | Finofo",
