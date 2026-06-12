@@ -2,6 +2,30 @@
   "version": 1,
   "items": [
     {
+      "id": "finofo-com-43d26a61",
+      "url": "https://www.finofo.com/",
+      "title": "AI-Powered AP Automation That Just Works | Finofo",
+      "description": "Automate AP with AI-powered ingestion, 3-way matching, smart approvals, ERP posting, and global payments. ERP optional. Faster, accurate AP for modern finance teams.",
+      "favicon": "https://cdn.prod.website-files.com/679bb1f1daeca4324ef9fde5/67d363c960801427b604f796_32.png",
+      "siteName": "finofo.com",
+      "screenshot": "screenshots/finofo-com-43d26a61.png",
+      "width": 1280,
+      "height": 900,
+      "colors": [
+        "#DDDBDC",
+        "#060606",
+        "#5E5E5E",
+        "#F0B465",
+        "#7A858D",
+        "#6F7687"
+      ],
+      "bg": "#DDDBDC",
+      "tags": [
+        "dark"
+      ],
+      "createdAt": "2026-06-12T10:25:20.142Z"
+    },
+    {
       "id": "smilifye-webflow-io-411dfd60",
       "url": "https://smilifye.webflow.io/service",
       "title": "Service - Smilifye - Webflow HTML website template",
